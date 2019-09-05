@@ -42,6 +42,7 @@
 #include <crtdbg.h>
 #endif
 
+
 using namespace CryptoNote;
 using namespace Logging;
 using Common::JsonValue;
